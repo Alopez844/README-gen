@@ -1,12 +1,16 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alopez844/README-gen"
+  },
+  "author": "Alejandro Lopez",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
