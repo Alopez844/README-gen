@@ -19,6 +19,9 @@
   This project is license under undefined
   ## Contributing 
   Read the installation process
+
+  ## Walkthrough Video
+  https://youtu.be/9o4B6is6LNE
   ## Tests
   node index.js
   ## Questions
